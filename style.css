@@ -1,0 +1,23 @@
+@import ' header.css ';
+@import ' nav.css ';
+@import ' section-service.css ';
+@import ' section-team.css ';
+@import ' section-folio.css ';
+@import ' section-contact.css ';
+@import ' footer.css ';
+
+
+html {
+    width: 100%;
+    scroll-behavior: smooth;
+    --bg: rgb(177, 146, 17);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    font-family: sans-serif;
+    line-height: 30px;
+    color: #444;
+}

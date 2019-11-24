@@ -1,0 +1,15 @@
+#lesnews img {
+	width:300px;
+  height:300px;
+
+}
+
+#lesnews div {
+	width:300px;
+  vertical-align:top;
+  display:inline-block;
+}
+
+#team {
+  margin: 150px;
+}
