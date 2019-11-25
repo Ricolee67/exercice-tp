@@ -8,8 +8,13 @@
 	width:300px;
   vertical-align:top;
   display:inline-block;
+  
 }
 
 #team {
-  margin: 150px;
+  margin: 100px;
+}
+
+#team h1 {
+  text-align: center; 
 }
